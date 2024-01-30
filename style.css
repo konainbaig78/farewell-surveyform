@@ -1,0 +1,17 @@
+body {
+  background-image: url("images/download.jpg");
+
+  background-size: 600px;
+}
+fieldset {
+  border: 5px solid black;
+  background-color: white;
+  padding: 70px;
+  margin: 60px;
+}
+button {
+  background-color: darkred;
+  width: 800px;
+  color: whitesmoke;
+  border-color: darkred;
+}
